@@ -1,4 +1,4 @@
-# Angular 2 MEAN Seed [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/mdarmani) [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
+# Angular 2 MEAN Stack Seed [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/mdarmani) [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
 
 This project uses the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)):
 * [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](http://www.mongodb.com)): database
