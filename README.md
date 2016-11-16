@@ -1,7 +1,4 @@
-# Angular 2 Full Stack project [![Dependencies](https://david-dm.org/DavideViolante/Angular2-Full-Stack.svg)](https://david-dm.org/DavideViolante/Angular2-Full-Stack) [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/dviolante) [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
-
-
-The front-end of this project was generated with [Angular CLI](https://github.com/angular/angular-cli).
+# Angular 2 MEAN Seed [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/mdarmani) [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
 
 This project uses the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)):
 * [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](http://www.mongodb.com)): database
@@ -26,9 +23,6 @@ This project uses the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_
 ## Production
 Run `ng build -prod` to create a production ready bundle.
 
-## Preview
-![Preview](https://raw.githubusercontent.com/DavideViolante/Angular2-Full-Stack/master/demo.gif "Preview")
-
 ## Please open an issue if
 * you have any suggestion or advice to improve this project.
 * you noticed any problem or error.
@@ -48,4 +42,4 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ### Author
-* [Davide Violante](https://github.com/DavideViolante)
+* [Michael Darmanin](https://github.com/mdarmani)
